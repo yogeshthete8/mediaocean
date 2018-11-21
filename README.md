@@ -28,7 +28,7 @@ Build & Run Commands:
 2. Build project - mvn clean install
 3. Run Project using jar - 
     a. cd target
-    b. java -jar OnlineRetailStore-0.0.1-SNAPSHOT.jar
+    b. java -jar OnlineRetailShop-1.0-SNAPSHOT.jar
     c. Default port - 8080
 4. Accecc API using Swagger - http://localhost:8080/swagger-ui.html
 
